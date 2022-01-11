@@ -1,0 +1,2 @@
+# amplifyapp
+aws static application
